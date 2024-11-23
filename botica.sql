@@ -1,3 +1,6 @@
+CREATE DATABASE botica;
+USE botica;
+
 -- Tabla de Usuarios
 CREATE TABLE Usuarios (
     id_usuario INT AUTO_INCREMENT PRIMARY KEY,
